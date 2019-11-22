@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="column_width" />
+    <dimen name="activity_horizontal_margin" />
+    <dimen name="constrain" type="16dp"/>
+    <dimen name="activivtu">16dp</dimen>
+</resources>

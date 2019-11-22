@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <!-- Base application theme. -->
+    <color name="white_opaque">#0A0A0A</color>
+    <color name="pitch_black">#AC983E</color>
+</resources>
